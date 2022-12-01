@@ -1,0 +1,5 @@
+{
+    "monitor_number": 1,
+    "state_delay_ms": 10,
+    "switch_key": "KEY_F1"
+}

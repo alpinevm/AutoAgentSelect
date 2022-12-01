@@ -1,0 +1,4 @@
+keyboard==0.13.5
+mss==6.1.0
+PyAutoGUI==0.9.53
+pydantic==1.10.2
